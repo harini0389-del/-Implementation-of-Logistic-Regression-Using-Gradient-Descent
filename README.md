@@ -9,33 +9,36 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Import Required Libraries
-2. Load the Dataset
-3. Copy Data & Drop Unwanted Columns
-4. Check Data Quality
-5. Encode Categorical Variables
-6. Define Features (X) and Target (y)
-7. Split into Training and Testing Sets
-8. Build and Train Logistic Regression Model
-9. Make Predictions
-10. Evaluate the Model
-11. Predict for a New Student
+2. Load and View the Dataset
+3. Drop Unnecessary Columns
+4. Convert Categorical Columns to category Type
+5. Convert Categories to Numeric Codes
+6. Separate Features (X) and Target (y)
+7. Initialize Model Parameters (Weights)
+8. Define the Sigmoid Function
+9. Define the Loss (Cost) Function
+10. Implement Gradient Descent
+11. Define Prediction Function
+12. Make Predictions and Compute Accuracy
+13. Predict for New Students
 
 
 ## Program:
-
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Harini M
 RegisterNumber: 25001011 
 */
-<img width="1022" height="752" alt="image" src="https://github.com/user-attachments/assets/2b0d4216-e1cf-43b8-a2c3-92ea92ed7e85" />
-<img width="996" height="796" alt="image" src="https://github.com/user-attachments/assets/77ff9d0f-ea96-47db-ae94-0b6f936dd283" />
-<img width="967" height="810" alt="image" src="https://github.com/user-attachments/assets/303a8e3f-b181-4e4d-947c-531f6babb944" />
-<img width="1027" height="237" alt="image" src="https://github.com/user-attachments/assets/e43564cc-5f78-4679-a17a-c8586640050a" />
+<img width="1030" height="797" alt="image" src="https://github.com/user-attachments/assets/0922b34b-a618-4183-bafb-92c44a550156" />
+<img width="1050" height="816" alt="image" src="https://github.com/user-attachments/assets/a2c7ee1d-9dbd-4df6-bff9-7c9f9b9d7645" />
+<img width="1045" height="837" alt="image" src="https://github.com/user-attachments/assets/c810d700-389d-4e4e-8731-6394cce8bd70" />
+<img width="1011" height="288" alt="image" src="https://github.com/user-attachments/assets/f89d1529-5aab-44a1-ba78-7e4281d58098" />
+
 
 
 ## Output:
-<img width="1097" height="803" alt="image" src="https://github.com/user-attachments/assets/560d16ab-e6d1-44bc-87d2-b16917fd62d9" />
+<img width="1056" height="771" alt="image" src="https://github.com/user-attachments/assets/05f0d685-551c-4818-8143-b08846220997" />
+
 
 
 ## Result:
